@@ -21,8 +21,8 @@ It is also true that Rust is currently a trendy programming language. I wanted t
 Usually, learning a new programming language always starts with finding a good tutorial. For me, a good tutorial is:
 - simple enough that I don’t need to open additional documentation,
 - complete enough that I can start doing real programs at the end, not just displaying my name on the command line,
-= it doesn’t take me for a complete beginner, and explains to me for the fiftieth time what a variable is,
-= and that he’s up to date enough not to have compilation errors in his examples.
+- it doesn’t take me for a complete beginner, and explains to me for the fiftieth time what a variable is,
+- and that he’s up to date enough not to have compilation errors in his examples.
 
 Fortunately, with Rust, this search, which can sometimes be long, was not necessary. Rust has its own official tutorial, the [Rust Book](https://doc.rust-lang.org/stable/book/).  Not only is the tutorial very complete, but as it is known by the whole community, it is also regularly updated.
 
