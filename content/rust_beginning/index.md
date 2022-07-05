@@ -1,10 +1,10 @@
 +++
 title="the beginning of my journey with Rust"
-description="a story about by humble begging with this new language"
+description="a story about my humble begging with this new language"
 date = 2020-06-16
 
 [taxonomies]
-tags = ["rust"]
+tags = ["rust", "computer"]
 
 [extra]
 ToC = true
@@ -19,6 +19,7 @@ It is also true that Rust is currently a trendy programming language. I wanted t
 # How I learned Rust
 
 Usually, learning a new programming language always starts with finding a good tutorial. For me, a good tutorial is:
+
 - simple enough that I don’t need to open additional documentation,
 - complete enough that I can start doing real programs at the end, not just displaying my name on the command line,
 - it doesn’t take me for a complete beginner, and explains to me for the fiftieth time what a variable is,
@@ -46,6 +47,7 @@ struct Config {
     filename: String,
 }
 ```
+
 The book goes on to show us more advanced techniques, such as multithreading and traits. Then comes the last exercise, a multithreaded web server, which allows us to use all the skills learned throughout the book.
 
 # First impressions
