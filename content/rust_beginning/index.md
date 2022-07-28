@@ -29,7 +29,7 @@ Fortunately, with Rust, this search, which can sometimes be long, was not necess
 
 Reassured that I was in good hands, I launched into the “Rust Book”. The book starts by making us install rustup, the toolchain manager of Rust. This installation is done without any problems, we are then shown how to create our first project. With one small command, the project is created, with all the necessary files, and even git already configured. The Rust file is filled with my very first Rust program: “Hello world”:
 
-```rs
+```rust
 fn main() {
     println!("Hello, world!");
 }
@@ -41,7 +41,7 @@ Without going into more detail, in the following chapters, the book takes us thr
 
 Then comes the second project of the book, a clone of the grep command line software. Now that you know the basics of the language, you can try to do the project only with the vague indications, without copying and pasting every line of code. I recommend this approach, as I think you learn better by doing it yourself. The tutorial also shows us the importance of organizing our data not only to make the program work, but also to make sense of the information.
 
-```rs
+```rust
 struct Config {
     query: String,
     filename: String,
