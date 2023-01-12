@@ -7,7 +7,7 @@ date = 2023-01-12
 tags = ["rust", "computer"]
 
 [extra]
-Toc = true
+ToC = true
 +++
 
 # Why You'll Love Rust
