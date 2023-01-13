@@ -1,9 +1,7 @@
 +++
 title="The Power of Generics in Modern Programming"
 description="Generics are a powerful feature found in many modern programming languages, including Java, C#, and Rust. They allow developers to write code that is flexible and reusable, without sacrificing performance or type safety. Here are just a few reasons why generics are so great in modern programming."
-date = 2023-01-12
-
-draft = true
+date = 2023-01-14
 
 [taxonomies]
 tags = ["rust", "computer", "generics"]
