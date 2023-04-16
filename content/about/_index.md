@@ -22,7 +22,7 @@ I enjoy programming about :
 
 This blog  is my place to talk about everything that i like about programming, and to put what I'm thinking about in a place where I can share it and save it for later.
 
-This blog is made with [Zola](https://www.getzola.org/), a blazingly fast 🚀static site engine written in Rust, and hosted on [Cloudflare Pages](https://pages.cloudflare.com/), witch is free, fast, and cached in the entire world. I also just need to push it on Github to have it updated everywhere.
+This blog is made with [Zola](https://www.getzola.org/), a blazingly fast 🚀 static site engine written in Rust, and hosted on [Cloudflare Pages](https://pages.cloudflare.com/), witch is free, fast, and cached in the entire world. I also just need to push it on Github to have it updated everywhere.
 
 # Link
 
